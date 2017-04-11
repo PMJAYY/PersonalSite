@@ -50,12 +50,12 @@ body{
 }
 
 @font-face{
-    font-family: "Play"
-    src : url ('Play.ttf');
+    font-family: "theOne";
+    src: url("Play.ttf");
 }
 
 *{
-    font-family: Play;
+    font-family: theOne;
 }
 
 #Intro{
