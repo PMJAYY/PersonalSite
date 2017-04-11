@@ -1,0 +1,133 @@
+body{
+    background-color: #e6e9ea;
+  background-image:
+    linear-gradient(
+      to right, 
+      #a3abaf, #c8e7f3
+    );
+        
+}
+
+#Container{
+    width: 960px;
+    vertical-align: middle;
+    margin: auto; 
+}
+
+#Background{
+    background-image: url(background.jpg);
+    background-size: cover;
+    width: 960px;
+    height: 800px;
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    border-radius: 100px;    
+    
+    vertical-align: middle;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+}
+
+
+#text{
+    display: flex;
+    margin:auto;
+}
+
+
+#Diagrams{
+    display: flex;
+    margin:auto;
+    
+}
+
+#stackD{
+    display: flex;
+    margin-left: 70px;
+}
+
+@font-face{
+    font-family: "Play"
+    src : url ('Play.ttf');
+}
+
+*{
+    font-family: Play;
+}
+
+#Intro{
+    font-size: 17px;    
+}
+
+#currentstack{
+    margin:auto;
+}
+
+#letsconnect{
+    margin: auto;
+}
+
+
+#Kofi{
+    align-content: center;
+    padding-top: 20px;
+}
+
+
+#wrapper{
+    display: flex;
+      
+}
+
+
+#StackAll{
+    display: flex;
+    margin-left: 20px;
+}
+
+
+
+#Stack2{
+    margin-left: 20px;
+}
+
+
+
+@media screen and (max-width:959px){
+    
+    #Container{
+        width:100%;
+    }
+    
+    
+    #Background{
+        width: 80%;
+    }
+    
+    #Kofi{
+        width:100%;
+    }
+    
+    #Into{
+        width:80%;
+    }
+    
+    #Connect{
+        width:1000%;
+    }
+    
+    #StackAll{
+        width:50%;
+    }
+    
+
+    
+        #wrapper{
+        width: 80%;    
+    }
+    
+}
+
