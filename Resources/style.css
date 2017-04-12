@@ -1,11 +1,9 @@
 body{
-    background-color: #e6e9ea;
-  background-image:
-    linear-gradient(
-      to right, 
-      #a3abaf, #c8e7f3
-    );
-        
+    
+    background-image: url(wwwq.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    
 }
 
 #Container{
@@ -60,6 +58,10 @@ body{
 
 #Intro{
     font-size: 17px;    
+}
+
+#connectD{
+    margin-top: 10px;
 }
 
 #currentstack{
