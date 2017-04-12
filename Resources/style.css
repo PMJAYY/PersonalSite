@@ -1,9 +1,6 @@
 body{
     
-    background-image: url(wwwq.jpg);
-    background-size: cover;
-    background-repeat: repeat;
-    
+    background-image: url(ab.jpg);
 }
 
 #Container{
@@ -102,33 +99,22 @@ body{
     
     #Container{
         width:100%;
-    }
-    
+    }    
     
     #Background{
-        width: 80%;
-    }
-    
-    #Kofi{
+        width: 100%;
+    }   
+  
+    #Connect{
         width:100%;
     }
     
-    #Into{
-        width:80%;
-    }
-    
-    #Connect{
-        width:1000%;
-    }
-    
     #StackAll{
-        width:50%;
+        width:100%;
     }
     
-
-    
-        #wrapper{
-        width: 80%;    
+    #Intro{
+        margin-top: 50px;
     }
     
 }
