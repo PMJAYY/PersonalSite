@@ -58,7 +58,7 @@ body{
 }
 
 #connectD{
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 #currentstack{
@@ -115,6 +115,7 @@ body{
     
     #Intro{
         margin-top: 50px;
+        
     }
     
 }
