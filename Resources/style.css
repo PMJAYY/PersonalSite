@@ -99,10 +99,12 @@ body{
     
     #Container{
         width:100%;
+        
     }    
     
     #Background{
         width: 100%;
+        
     }   
   
     #Connect{
@@ -114,9 +116,13 @@ body{
     }
     
     #Intro{
-        margin-top: 50px;
-        
+        margin-top: 20px;      
     }
     
+    #text{
+        margin-right: 40px;
+    }
+    
+  
 }
 
