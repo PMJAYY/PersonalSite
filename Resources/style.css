@@ -105,6 +105,10 @@ body{
     #Background{
         width: 100%;
         margin-top: 10px;
+        padding-top: 20px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 30px;
         
     }   
   
@@ -114,10 +118,6 @@ body{
     
     #StackAll{
         width:100%;
-    }
-    
-    #Intro{
-        margin-top: 20px;      
     }
     
     #text{
